@@ -1,6 +1,7 @@
+![](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 <h1 align="center">Hi 👋, I'm Mohan Gurung</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img src='https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif'/>
+<img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 - 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://porftoflio-for-mohan.vercel.app/](https://porftoflio-for-mohan.vercel.app/)
