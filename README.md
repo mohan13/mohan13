@@ -1,8 +1,9 @@
 <div align="center">
-  <img height="212" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
+  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohan Gurung</h1>
+
 <div align="center">
   <a href="mohan-gurung" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -14,17 +15,31 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-<h3 align="center">I'm using React,Next and Tailwind to make website dance. </h3>
+
+###
+
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
- 
- - 🌱 I’m currently learning **Backend**
- 
- - 👨‍💻 All of my projects are available at [My Portofilio](https://porftoflio-for-mohan.vercel.app/)
-   
- - 💬 Ask me about anything realated to **MERN**
 
- - 📫 How to reach me **mohan.skillprompt@gmail.com**
 
+
+#### 
+
+
+<h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
+
+</h4>  
+  
+- 🔭 I’m currently working on [Backend](")  
+  
+
+- 🌱 I’m currently learning Backend, Jest and Docker.    
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces    
+
+<br/>  
 
 ###
 
@@ -72,5 +87,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohan13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="149" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
