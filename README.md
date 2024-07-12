@@ -21,6 +21,7 @@
 <h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
 
 </h4>  
+
 - 💻 Currently, I'm working as a Frontend Developer, utilizing my expertise in React and Tailwind to develop robust web applications.
 
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
