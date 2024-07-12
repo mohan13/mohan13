@@ -15,22 +15,24 @@
 </div>
 
 <div align="center">
-  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
+  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="300"  />
 </div>
 
 <h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
 
 </h4>  
-  
-- 🔭 I’m currently working on [Backend](")  
-  
+- 💻 Currently, I'm working as a Frontend Developer, utilizing my expertise in React and Tailwind to develop robust web applications.
+
+- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 
 - 🌱 I’m currently learning Backend, Jest and Docker.    
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
 - ⚡ Fun fact: I use tabs over spaces    
+
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Mohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-gurung/)
+
 
 <h3 align="left">🛠 I love working with</h3>
 
@@ -68,11 +70,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-###
-
+### 🔥 &nbsp; My Stats :
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohan13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+### 😉 Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
