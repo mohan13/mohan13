@@ -14,10 +14,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" height="300"  />
-</div>
-
 <h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
 
 </h4>  
@@ -34,8 +30,7 @@
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Mohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-gurung/)
 
-
-<h3 align="left">🛠 I love working with</h3>
+### 🛠 I love working with :
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
