@@ -1,7 +1,5 @@
-<div align="center">
-  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
-</div>
-
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"> 
 <h1 align="center">Hi 👋, I'm Mohan Gurung</h1>
 
 <div align="center">
@@ -16,8 +14,11 @@
   </a>
 </div>
 
+<div align="center">
+  <img  src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"  />
+</div>
+
 <h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
-<img align="right" alt="Coding" width="280"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 </h4>  
   
