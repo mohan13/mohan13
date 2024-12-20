@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<h4 align="center">I'm using React, Next and Tailwind to make website dance.💃
+<h4 align="center">I'm using React, Next with Typescript and Tailwind to make website dance.💃
 
 </h4>  
 
@@ -22,7 +22,7 @@
 
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 
-- 🌱 I’m currently learning Backend, Jest and Docker.    
+- 🌱 I’m learning and practicing Backend, Jest and Docker.    
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
